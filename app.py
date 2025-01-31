@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("https://www.hindustantimes.com/ht-img/img/2023/04/11/1600x900/The-government-also-wants-to-embed-AI-in-different_1681218265620.jpg", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
